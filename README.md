@@ -1,4 +1,4 @@
-![K-tosh]()
+![K-tosh](https://github.com/K-tosh/K-tosh/blob/4215a26d2adb34a350ff27cb9454c3988f6117b4/K-tosh%20banner.png)
 # eric-kantona(K-tosh)
 
 **`Geek Physcian (Medicine/Tech)`**
