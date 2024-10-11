@@ -1,8 +1,16 @@
 # eric-kantona(K-tosh)
 
-**`Geek Physcian (Medicine/Tech)`**
+**`Geek clinician (Medicine/Tech)`**
 
-I'm a Kenyan full-stack developer building my version of the digital world one step at a time. i am learning Software engineering through ALX program, from planning and designing all the way to solving real-life problems with code.
+👋 Hi, I'm Eric Kantona (K-tosh)
+  
+🔭 I’m a Full-stack Developer & Clinical Officer passionate about building tech solutions for healthcare.
+  
+🌱 Currently learning advanced software engineering at ALX and developing applications that improve patient care.
+    
+📫 **How to reach me:** ericmusanyi8@gmail.com
+    
+⚡ Fun fact: I’m building tech solutions while caring for patients in Nairobi, Kenya.
 
 ---
 
